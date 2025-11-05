@@ -1,4 +1,3 @@
-
 # VibeShift — MVP (React + Vite + Tailwind)
 
 A clickable mock for the Mood DJ: mood gauge, signal sliders (health + weather + macro + finance), playlist pathing, and emoji feedback. Plaid is the default finance source (UI stub), with Gmail receipts as an alternative.
