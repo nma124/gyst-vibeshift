@@ -16,6 +16,5 @@ npm run dev
 - Slides in `slides/VibeShift_Slides.pptx`
 
 ## Notes
-- All data is simulated on the client. No external APIs are called.
 - Settings → Finance Signal Source shows **Plaid (default)** and **Gmail Receipts** with a simulated connect button.
 - The **Spend spike (24h vs avg)** slider feeds into the mood model as `financeStress`.
